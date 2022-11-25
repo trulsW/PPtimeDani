@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPtimeDani", "PPtimeDani.csproj", "{294751D9-109A-4EAF-9145-FA59C2A2C2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294751D9-109A-4EAF-9145-FA59C2A2C2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294751D9-109A-4EAF-9145-FA59C2A2C2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294751D9-109A-4EAF-9145-FA59C2A2C2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294751D9-109A-4EAF-9145-FA59C2A2C2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B85C6C4-5AF9-48E9-88F0-46C1CDBABE2C}
+	EndGlobalSection
+EndGlobal
